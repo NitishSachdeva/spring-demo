@@ -1,1 +1,2 @@
 # spring-demo
+These are the demo examples replicated from the course provided by the Eazy Bytes on Udemy.People who are interested in learning the Spring framework in detail from beginner to Advance level, can refer to this course.
