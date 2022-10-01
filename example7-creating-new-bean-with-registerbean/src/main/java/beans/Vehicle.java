@@ -1,10 +1,6 @@
 package beans;
 
-import org.springframework.stereotype.Component;
-import javax.annotation.PostConstruct;
-import javax.annotation.PreDestroy;
 
-@Component
 public class Vehicle {
 
     private String name;

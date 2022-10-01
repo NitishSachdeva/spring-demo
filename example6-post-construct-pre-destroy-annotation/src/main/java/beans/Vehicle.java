@@ -24,8 +24,7 @@ public class Vehicle {
 
     @PreDestroy
     public void destroy() {
-        System.out.println(
-                "Destroying Vehicle Bean");
+        System.out.println("Destroying Vehicle Bean");
     }
     public void printHello(){
         System.out.println(
