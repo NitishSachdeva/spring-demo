@@ -8,7 +8,6 @@ import javax.annotation.PreDestroy;
 public class Vehicle {
 
     private String name;
-
     public String getName() {
         return name;
     }
