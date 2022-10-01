@@ -11,7 +11,7 @@
 	<groupId>com.eazybytes</groupId>
 	<artifactId>example_18-hello-world-app-using-spring-boot-spring-mvc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>example_18</name>
+	<name>example_18-hello-world-app-using-spring-boot-spring-mvc</name>
 	<description>Eazy School Web Application</description>
 	<properties>
 		<java.version>18</java.version>
